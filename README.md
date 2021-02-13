@@ -1,4 +1,8 @@
-### Hi there 👋
+### Szalom 👋
+Mam 19 lat (ur. 18 lutego 2002r), lubie LUA, HTML, JavaScript no i nie tylko.
+
+### Jakiś kontakt byku? 🤔
+Discord: thenbhd#0001
 
 <!--
 **neightyy/neightyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

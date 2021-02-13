@@ -1,5 +1,7 @@
 ### Szalom 👋
 Mam 19 lat (ur. 18 lutego 2002r), lubie LUA, HTML, JavaScript no i nie tylko.
+Pisze UI (we Vue.js) pod Electron.js, FiveM, alt:V i różne dupelere.
+Jak mi się nudzi i robie projekta z nudów, to zazwyczaj wystawiam go tu - może kiedyś go usunę, może nie.
 
 ### Jakiś kontakt byku? 🤔
 Discord: thenbhd#0001

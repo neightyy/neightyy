@@ -3,6 +3,11 @@ Mam 19 lat (ur. 18 lutego 2002r), lubie LUA, HTML, JavaScript no i nie tylko.
 Pisze UI (we Vue.js) pod Electron.js, FiveM, alt:V i różne dupelere.
 Jak mi się nudzi i robie projekta z nudów, to zazwyczaj wystawiam go tu - może kiedyś go usunę, może nie.
 
+### Masz jakieś projekty byku? 🤔
+Jak bym ich nie miał to bym tą listę nie pisał 😄
+* extHost - projekt hostingu serwerów gier (https://github.com/exthost)
+* SANet Multiplayer - projekt multiplayer dla GTA:SA (https://github.com/sanet-team)
+
 ### Jakiś kontakt byku? 🤔
 Discord: thenbhd#0001
 

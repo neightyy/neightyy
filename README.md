@@ -5,11 +5,11 @@ Jak mi się nudzi i robie projekta z nudów, to zazwyczaj wystawiam go tu - moż
 
 ### Masz jakieś projekty byku? 🤔
 Jak bym ich nie miał to bym tą listę nie pisał 😄
-* extHost - projekt hostingu serwerów gier (https://github.com/exthost)
-* SANet Multiplayer - projekt multiplayer dla GTA:SA (https://github.com/sanet-team)
+* extHost - projekt hostingu serwerów gier (https://github.com/exthost) (WIP)
+* SANet Multiplayer - projekt multiplayer dla GTA:SA (https://github.com/sanet-team) (wstrzymane na ten moment)
 
 ### Jakiś kontakt byku? 🤔
-Discord: thenbhd#0001
+Discord: thenbhd#1284
 
 <!--
 **neightyy/neightyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

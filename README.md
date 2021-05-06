@@ -1,12 +1,11 @@
-### Szalom 👋
+### Cześć! 👋
 Mam 19 lat (ur. 18 lutego 2002r), lubie LUA, HTML, JavaScript no i nie tylko.
 Pisze UI (we Vue.js) pod Electron.js, FiveM, alt:V i różne dupelere.
 Jak mi się nudzi i robie projekta z nudów, to zazwyczaj wystawiam go tu - może kiedyś go usunę, może nie.
 
 ### Masz jakieś projekty byku? 🤔
 Jak bym ich nie miał to bym tą listę nie pisał 😄
-* extHost - projekt hostingu serwerów gier (https://github.com/exthost) (WIP)
-* REYFM - niemieckie radio internetowe (front-end & back-end developer) (https://github.com/REYFM)
+* PseudoStories RPG - projekt serwera RPG pod grę MTA:SA (wkrótce ukaże się publiczny GH)
 
 ### Jakiś kontakt byku? 🤔
 Discord: thenbhd#1284

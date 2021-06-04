@@ -3,12 +3,11 @@ Mam 19 lat (ur. 18 lutego 2002r), lubie LUA, HTML, JavaScript no i nie tylko.
 Pisze UI (we Vue.js) pod Electron.js, FiveM, alt:V i różne dupelere.
 Jak mi się nudzi i robie projekta z nudów, to zazwyczaj wystawiam go tu - może kiedyś go usunę, może nie.
 
-### Masz jakieś projekty byku? 🤔
-Jak bym ich nie miał to bym tą listę nie pisał 😄
-* PseudoStories RPG - projekt serwera RPG pod grę MTA:SA (wkrótce ukaże się publiczny GH)
-
-### Jakiś kontakt byku? 🤔
+### Jakiś kontakt byku? 📫
 Discord: thenbhd#1284
+
+## Używane języki (skryptowe/programistyczne)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Norbix2002PL&layout=compact&count_private=true&include_all_commits=true&hide_border=true&langs_count=10&theme=dark" />  
 
 <!--
 **neightyy/neightyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
